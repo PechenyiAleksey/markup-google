@@ -1,0 +1,40 @@
+.search-field {
+  text-align: center;
+}
+
+form {
+  display: block;
+  margin: 0cm;
+}
+
+form svg {
+  width: 20px;
+  position: relative;
+  left: 38px;
+  top: 10px;
+}
+
+.field {
+  width: 38vw;
+  min-width: 300px;
+  border: #cacaca 1px solid;
+  border-radius: 20px;
+  height: 45px;
+  padding-left: 40px;
+}
+
+.voiceIcon {
+  width: 20px;
+  position: relative;
+  left: -40px;
+  top: 10px;
+}
+
+.buttons input {
+  margin: 12px 6px;
+  font-size: 14px;
+  padding: 10px 15px;
+  border: solid 1px white;
+  border-radius: 5px;
+  background-color: #f8f9fa;
+}
